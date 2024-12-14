@@ -6,7 +6,7 @@
 [>] https://discord.gg/j2X83ujT6c
 
 [?] Where does the site live?  
-[>] https://jokopikopi.github.io/
+[>] https://jokopikopi.github.io/maling/
 
 [!] Please do not separate files such as HTML, CSS, JavaScript into many different files!
 
