@@ -6,7 +6,7 @@
 [>] https://discord.gg/j2X83ujT6c
 
 [?] Where does the site live?  
-[>] https://nhanaz.github.io/glyph/
+[>] https://jokopikopi.github.io/
 
 [!] Please do not separate files such as HTML, CSS, JavaScript into many different files!
 
